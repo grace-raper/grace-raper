@@ -14,5 +14,5 @@ jobs:
       - uses: zwacky/goodreads-profile-workflow@main
         with:
           # Replace this with your goodreads user id
-          goodreads_user_id: "54010142"
+          goodreads_user_id: "154010142"
           shelf: "currently-reading"
