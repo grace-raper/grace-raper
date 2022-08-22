@@ -1,14 +1,6 @@
 ### Hi there 👋
 
 <!--
-Books I'm Reading:
-<!-- GOODREADS-LIST:START -->
-- [The Pursuit of Love (Radlett & Montdore, #1)](https://www.goodreads.com/review/show/4919182428?utm_medium=api&utm_source=rss) by Nancy Mitford (⭐️3.96)
-- [Twenty Thousand Leagues Under the Sea](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.92)
-- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.38)
-<!-- GOODREADS-LIST:END -->
-
-<!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
