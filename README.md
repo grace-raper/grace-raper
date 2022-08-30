@@ -4,10 +4,9 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### The books I'm currently reading (or re-reading):
    <!-- GOODREADS-LIST:START -->
- - [The Pursuit of Love (Radlett & Montdore, #1)](https://www.goodreads.com/review/show/4919182428?utm_medium=api&utm_source=rss) by Nancy Mitford (⭐️3.96)
- - [Twenty Thousand Leagues Under the Sea](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.92)
- - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.38)
- <!-- GOODREADS-LIST:END -->
+- [Twenty Thousand Leagues Under the Sea](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.92)
+- [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.38)
+<!-- GOODREADS-LIST:END -->
 
 #### The artist I currently have on repeat:
 ![](https://readme-now-playing.vercel.app/now-playing/q?uid=c57a5d71763d41b7) 
