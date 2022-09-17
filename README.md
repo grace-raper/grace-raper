@@ -4,6 +4,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### The books I'm currently reading (or re-reading):
    <!-- GOODREADS-LIST:START -->
+- [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown (⭐️4.33)
 - [Twenty Thousand Leagues Under the Sea](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne (⭐️3.92)
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari (⭐️4.38)
 <!-- GOODREADS-LIST:END -->
