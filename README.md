@@ -6,7 +6,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
    <!-- GOODREADS-LIST:START -->
 - [Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do](https://www.goodreads.com/review/show/4903740586?utm_medium=api&utm_source=rss) by Jeremy Bailenson
 - [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown
-- [Twenty Thousand Leagues Under the Sea (Extraordinary Voyages, #6)](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne
+- [Twenty Thousand Leagues Under the Sea (Captain Nemo #2)](https://www.goodreads.com/review/show/4903763092?utm_medium=api&utm_source=rss) by Jules Verne
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari
 <!-- GOODREADS-LIST:END -->
 
