@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Seattle, Washington. I'm currently working full-time with awesome peeps at Ghost Pacer.
 
-#### The books I'm currently reading (or re-reading):
+#### recent reads:
    <!-- GOODREADS-LIST:START -->
 - [Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do](https://www.goodreads.com/review/show/4903740586?utm_medium=api&utm_source=rss) by Jeremy Bailenson
 - [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown
