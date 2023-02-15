@@ -13,7 +13,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### The artist I currently have on repeat:
 <!-- lastfm -->
-
+<p align="center"></p>
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
