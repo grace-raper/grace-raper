@@ -2,7 +2,7 @@
 
 I'm a software engineer based in Seattle, Washington. I'm currently working full-time with awesome peeps at Ghost Pacer.
 
-#### recent reads:
+#### books I've been reading:
    <!-- GOODREADS-LIST:START -->
 - [Uncanny Valley: A Memoir](https://www.goodreads.com/review/show/5282568347?utm_medium=api&utm_source=rss) by Anna Wiener
 - [Someone To Talk To](https://www.goodreads.com/review/show/5229826920?utm_medium=api&utm_source=rss) by Mario Luis Small
@@ -11,7 +11,18 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 - [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown
 <!-- GOODREADS-LIST:END -->
 
-#### The artist I currently have on repeat:
+#### artists I have on repeat:
+
+1. [Colony House](www.google.com) - listen to 12 times this week 
+2. [Taylor Swift](www.google.com) - listen to 12 times this week 
+3. [Smallpools](www.google.com) - listen to 12 times this week 
+4. [Colony House](www.google.com) - listen to 12 times this week 
+5. [Colony House](www.google.com) - listen to 12 times this week 
+
+#### the song I've hyperfixated on this month: 
+
+* [song](www.google.com) - artist (102 plays in the last 30 days)
+
 <!-- lastfm -->
 <p align="center"></p>
 <!--
