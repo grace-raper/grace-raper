@@ -12,19 +12,19 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
+<!-- LASTFM-TOP-ARTIST:START -->
+1. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+2. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+3. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+4. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+5. [Mickey Darling](https://www.last.fm/music/Mickey+Darling) - listened to 20 times this week
+<!-- LASTFM-TOP-ARTIST:STOP -->
 
-1. [Colony House](www.google.com) - listen to 12 times this week 
-2. [Taylor Swift](www.google.com) - listen to 12 times this week 
-3. [Smallpools](www.google.com) - listen to 12 times this week 
-4. [Colony House](www.google.com) - listen to 12 times this week 
-5. [Colony House](www.google.com) - listen to 12 times this week 
+#### the song I've hyperfixated on this month:
+<!-- LASTFM-TOP-TRACK:START -->
+* [Reverse Cowboy](https://www.last.fm/music/Mickey+Darling/_/Reverse+Cowgirl) - Mickey Darling (7 plays in the last 30 days)
+<!-- LASTFM-TOP-TRACK:END -->
 
-#### the song I've hyperfixated on this month: 
-
-* [song](www.google.com) - artist (102 plays in the last 30 days)
-
-<!-- lastfm -->
-<p align="center"></p>
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
