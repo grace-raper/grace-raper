@@ -1,4 +1,4 @@
-## Hi, I'm Grace 👋
+![](https://github.com/grace-raper/grace-raper/blob/main/github-readme-header.gif)
 
 I'm a software engineer based in Seattle, Washington. I'm currently working full-time with awesome peeps at Ghost Pacer.
 
