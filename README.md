@@ -12,7 +12,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 <!-- GOODREADS-LIST:END -->
 
 #### The artist I currently have on repeat:
-![](https://readme-now-playing.vercel.app/now-playing/q?uid=c57a5d71763d41b7) 
+<!-- lastfm -->
 
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
