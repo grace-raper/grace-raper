@@ -16,7 +16,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 2. [Beach Weather](https://www.last.fm/music/Beach+Weather) - listened to 6 times this week
 3. [lovelytheband](https://www.last.fm/music/lovelytheband) - listened to 4 times this week
 4. [Vista Kicks](https://www.last.fm/music/Vista+Kicks) - listened to 4 times this week
-5. [Kenny Chesney](https://www.last.fm/music/Kenny+Chesney) - listened to 3 times this week
+5. [Lake Street Dive](https://www.last.fm/music/Lake+Street+Dive) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
