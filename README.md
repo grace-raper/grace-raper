@@ -4,6 +4,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### books I've been reading:
    <!-- GOODREADS-LIST:START -->
+- [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Donald Albrecht
 - [Someone To Talk To](https://www.goodreads.com/review/show/5229826920?utm_medium=api&utm_source=rss) by Mario Luis Small
 - [Grace Hopper and the Invention of the Information Age](https://www.goodreads.com/review/show/5229825858?utm_medium=api&utm_source=rss) by Kurt W. Beyer
 - [Experience on Demand: What Virtual Reality Is, How It Works, and What It Can Do](https://www.goodreads.com/review/show/4903740586?utm_medium=api&utm_source=rss) by Jeremy Bailenson
