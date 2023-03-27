@@ -4,6 +4,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### books I've been reading:
    <!-- GOODREADS-LIST:START -->
+- [The Poems of Emily Dickinson: Reading Edition](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Donald Albrecht
 - [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown
 <!-- GOODREADS-LIST:END -->
