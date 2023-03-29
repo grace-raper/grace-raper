@@ -4,6 +4,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### books I've been reading:
    <!-- GOODREADS-LIST:START -->
+- [Reading American Photographs: Images as History: Mathew Brady to Walker Evans](https://www.goodreads.com/review/show/5449212774?utm_medium=api&utm_source=rss) by Alan Trachtenberg
 - [Jane Eyre](https://www.goodreads.com/review/show/4903745026?utm_medium=api&utm_source=rss) by Charlotte Brontë
 - [The Poems of Emily Dickinson: Reading Edition](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Donald Albrecht
