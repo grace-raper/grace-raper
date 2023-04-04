@@ -22,7 +22,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [All or Nothing](https://www.last.fm/music/Ripe/_/All+or+Nothing) - Ripe (7 plays in the last 30 days)
+* [Never Goes Away](https://www.last.fm/music/Claire+Rosinkranz/_/Never+Goes+Away) - Claire Rosinkranz (6 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 <!--
