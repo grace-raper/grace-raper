@@ -22,7 +22,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### the song I've hyperfixated on this month:
 <!-- LASTFM-TOP-TRACK:START -->
-* [Dive](https://www.last.fm/music/Olivia+Dean/_/Dive) - Olivia Dean (4 plays in the last 30 days)
+* [Sex, Drugs, Etc.](https://www.last.fm/music/Beach+Weather/_/Sex,+Drugs,+Etc.) - Beach Weather (3 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
 <!--
