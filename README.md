@@ -4,6 +4,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 
 #### books I've been reading:
    <!-- GOODREADS-LIST:START -->
+- [The Library Book](https://www.goodreads.com/review/show/4903742380?utm_medium=api&utm_source=rss) by Susan Orlean
 - [Anna Karenina](https://www.goodreads.com/review/show/5457976967?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [The Poems of Emily Dickinson: Reading Edition (Belknap)](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
