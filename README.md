@@ -16,7 +16,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 2. [Taylor Swift](https://www.last.fm/music/Taylor+Swift) - listened to 6 times this week
 3. [Vance Joy](https://www.last.fm/music/Vance+Joy) - listened to 5 times this week
 4. [Dean Lewis](https://www.last.fm/music/Dean+Lewis) - listened to 3 times this week
-5. [James Bay](https://www.last.fm/music/James+Bay) - listened to 3 times this week
+5. [Faith Hill](https://www.last.fm/music/Faith+Hill) - listened to 3 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
 #### the song I've hyperfixated on this month:
