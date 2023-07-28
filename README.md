@@ -1,8 +1,13 @@
 ![](https://github.com/grace-raper/grace-raper/blob/main/github-readme-header.gif)
 ## Welcome 👋
-I'm a software engineer based in Seattle, Washington. I'm currently working full-time with awesome peeps at Ghost Pacer.
+I'm a software engineer based in Seattle, Washington. I'm currently looking for software engineering roles!
 
+#### articles I've been writing: 
+- [Can ChatGPT Decode Cain’s Jawbone? Exploring the Complexities and Limitations of LLMs](https://medium.com/@graceiraper/can-chatgtp-decode-cains-jawbone-f1b479cf083e)
+- [Navigating the World of Indoor Navigation](https://medium.com/@graceiraper/navigating-the-world-of-indoor-navigation-7b71f15d72c4)
+- [What is RFID? A Introduction to Radio Frequency Identification](https://medium.com/@graceiraper/what-is-rfid-technology-615c47b8c411)
 #### books I've been reading:
+
    <!-- GOODREADS-LIST:START -->
 - [The War of the Worlds](https://www.goodreads.com/review/show/5501579967?utm_medium=api&utm_source=rss) by H.G. Wells
 - [Cain&apos;s Jawbone](https://www.goodreads.com/review/show/5707400106?utm_medium=api&utm_source=rss) by E. Powys Mathers
@@ -19,11 +24,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working full
 4. [Grace Carter](https://www.last.fm/music/Grace+Carter) - listened to 7 times this week
 5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 7 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
-
-#### the song I've hyperfixated on this month:
-<!-- LASTFM-TOP-TRACK:START -->
-* [Empty June](https://www.last.fm/music/Elias+Hix/_/Empty+June) - Elias Hix (2 plays in the last 30 days)
-<!-- LASTFM-TOP-TRACK:END -->
 
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
