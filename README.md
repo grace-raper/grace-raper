@@ -1,6 +1,6 @@
 ![](https://github.com/grace-raper/grace-raper/blob/main/github-readme-header.gif)
 ## Welcome 👋
-I'm a software engineer based in Seattle, Washington. I'm currently looking for software engineering roles!
+I'm a software engineer based in Seattle, Washington. I'm currently looking for engineering roles (specifically ones in the AR/VR/XR space)!
 
 #### articles I've been writing: 
 - [Can ChatGPT Decode Cain’s Jawbone? Exploring the Complexities and Limitations of LLMs](https://medium.com/@graceiraper/can-chatgtp-decode-cains-jawbone-f1b479cf083e)
