@@ -9,11 +9,11 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [The Hobbit (The Lord of the Rings, #0)](https://www.goodreads.com/review/show/5813625771?utm_medium=api&utm_source=rss) by J.R.R. Tolkien
 - [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
 - [1984](https://www.goodreads.com/review/show/5786069645?utm_medium=api&utm_source=rss) by George Orwell
 - [The Poems of Emily Dickinson: Reading Edition (Belknap)](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
+- [The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics](https://www.goodreads.com/review/show/4992690226?utm_medium=api&utm_source=rss) by Daniel James Brown
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
