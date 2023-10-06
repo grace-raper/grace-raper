@@ -9,11 +9,11 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [1984](https://www.goodreads.com/review/show/5786069645?utm_medium=api&utm_source=rss) by George Orwell
 - [Anne of Green Gables (Anne of Green Gables, #1)](https://www.goodreads.com/review/show/5813626667?utm_medium=api&utm_source=rss) by L.M. Montgomery
 - [The Odyssey](https://www.goodreads.com/review/show/5852231952?utm_medium=api&utm_source=rss) by Homer
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 - [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
-- [The Poems of Emily Dickinson: Reading Edition (Belknap)](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
