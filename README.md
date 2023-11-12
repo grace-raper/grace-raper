@@ -9,6 +9,8 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Bleak House](https://www.goodreads.com/review/show/5970263514?utm_medium=api&utm_source=rss) by Charles Dickens
+- [The Buccaneers](https://www.goodreads.com/review/show/5970262325?utm_medium=api&utm_source=rss) by Edith Wharton
 - [The Prince](https://www.goodreads.com/review/show/5935376155?utm_medium=api&utm_source=rss) by Niccolò Machiavelli
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 - [The Poems of Emily Dickinson: Reading Edition (Belknap)](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
