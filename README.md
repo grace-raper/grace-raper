@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [War and Peace](https://www.goodreads.com/review/show/6021540415?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [The Age of Innocence](https://www.goodreads.com/review/show/5929133234?utm_medium=api&utm_source=rss) by Edith Wharton
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 - [The Poems of Emily Dickinson: Reading Edition (Belknap)](https://www.goodreads.com/review/show/5444557066?utm_medium=api&utm_source=rss) by Emily Dickinson
