@@ -9,8 +9,9 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [War and Peace](https://www.goodreads.com/review/show/6021540415?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [The Age of Innocence](https://www.goodreads.com/review/show/5929133234?utm_medium=api&utm_source=rss) by Edith Wharton
+- [Lady Susan](https://www.goodreads.com/review/show/6180604838?utm_medium=api&utm_source=rss) by Jane Austen
+- [War and Peace](https://www.goodreads.com/review/show/6021540415?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
