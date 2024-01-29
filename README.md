@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [The Masque of the Red Death (Little Clothbound Classics)](https://www.goodreads.com/review/show/6180613384?utm_medium=api&utm_source=rss) by Edgar Allan Poe
 - [The Age of Innocence](https://www.goodreads.com/review/show/5929133234?utm_medium=api&utm_source=rss) by Edith Wharton
 - [War and Peace](https://www.goodreads.com/review/show/6021540415?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [Sapiens: A Brief History of Humankind](https://www.goodreads.com/review/show/4876143489?utm_medium=api&utm_source=rss) by Yuval Noah Harari
