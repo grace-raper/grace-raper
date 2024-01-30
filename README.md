@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 
    <!-- GOODREADS-LIST:START -->
 - [The Masque of the Red Death (Little Clothbound Classics)](https://www.goodreads.com/review/show/6180613384?utm_medium=api&utm_source=rss) by Edgar Allan Poe
-- [War and Peace](https://www.goodreads.com/review/show/6021540415?utm_medium=api&utm_source=rss) by Leo Tolstoy
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
