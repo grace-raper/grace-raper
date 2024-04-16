@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 
    <!-- GOODREADS-LIST:START -->
 - [Vanity Fair](https://www.goodreads.com/review/show/5776295082?utm_medium=api&utm_source=rss) by William Makepeace Thackeray
-- [The Pursuit of Love](https://www.goodreads.com/review/show/4919182428?utm_medium=api&utm_source=rss) by Nancy Mitford
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
