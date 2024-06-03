@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 
    <!-- GOODREADS-LIST:START -->
 - [Love in a Cold Climate](https://www.goodreads.com/review/show/6315058716?utm_medium=api&utm_source=rss) by Nancy Mitford
-- [Vanity Fair](https://www.goodreads.com/review/show/5776295082?utm_medium=api&utm_source=rss) by William Makepeace Thackeray
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
