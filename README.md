@@ -9,7 +9,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [My Antonia](https://www.goodreads.com/review/show/6560753533?utm_medium=api&utm_source=rss) by Willa Cather
 - [An Absolutely Remarkable Thing (The Carls, #1)](https://www.goodreads.com/review/show/6556078711?utm_medium=api&utm_source=rss) by Hank Green
 - [Love in a Cold Climate](https://www.goodreads.com/review/show/6315058716?utm_medium=api&utm_source=rss) by Nancy Mitford
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
