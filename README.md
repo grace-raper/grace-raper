@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 
    <!-- GOODREADS-LIST:START -->
 - [Villette](https://www.goodreads.com/review/show/5929110106?utm_medium=api&utm_source=rss) by Charlotte Brontë
-- [An Absolutely Remarkable Thing (The Carls, #1)](https://www.goodreads.com/review/show/6556078711?utm_medium=api&utm_source=rss) by Hank Green
 - [Love in a Cold Climate](https://www.goodreads.com/review/show/6315058716?utm_medium=api&utm_source=rss) by Nancy Mitford
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
