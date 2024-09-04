@@ -9,8 +9,8 @@ I'm a software engineer based in Seattle, Washington. I'm currently looking for 
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [The House of Mirth](https://www.goodreads.com/review/show/6819652040?utm_medium=api&utm_source=rss) by Edith Wharton
 - [Things Fall Apart (The African Trilogy, #1)](https://www.goodreads.com/review/show/6814625999?utm_medium=api&utm_source=rss) by Chinua Achebe
-- [Love in a Cold Climate](https://www.goodreads.com/review/show/6315058716?utm_medium=api&utm_source=rss) by Nancy Mitford
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
