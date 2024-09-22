@@ -9,7 +9,6 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [The House of Mirth](https://www.goodreads.com/review/show/6819652040?utm_medium=api&utm_source=rss) by Edith Wharton
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
