@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Bright Young Women](https://www.goodreads.com/review/show/6869666821?utm_medium=api&utm_source=rss) by Jessica Knoll
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
