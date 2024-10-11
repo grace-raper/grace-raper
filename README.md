@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Agnes Grey](https://www.goodreads.com/review/show/6916814181?utm_medium=api&utm_source=rss) by Anne Brontë
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
