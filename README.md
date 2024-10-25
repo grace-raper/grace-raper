@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Selected Essays](https://www.goodreads.com/review/show/6939884190?utm_medium=api&utm_source=rss) by John Berger
-- [These Precious Days: Essays](https://www.goodreads.com/review/show/6933158099?utm_medium=api&utm_source=rss) by Ann Patchett
 - [All the Light We Cannot See](https://www.goodreads.com/review/show/6917591918?utm_medium=api&utm_source=rss) by Anthony Doerr
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
