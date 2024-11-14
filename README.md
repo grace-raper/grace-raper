@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/6610784193?utm_medium=api&utm_source=rss) by Gabriel García Márquez
-- [The Catcher in the Rye](https://www.goodreads.com/review/show/6955317701?utm_medium=api&utm_source=rss) by J.D. Salinger
 - [All the Light We Cannot See](https://www.goodreads.com/review/show/6917591918?utm_medium=api&utm_source=rss) by Anthony Doerr
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
