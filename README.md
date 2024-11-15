@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 - [Love in the Time of Cholera](https://www.goodreads.com/review/show/6610784193?utm_medium=api&utm_source=rss) by Gabriel García Márquez
 - [All the Light We Cannot See](https://www.goodreads.com/review/show/6917591918?utm_medium=api&utm_source=rss) by Anthony Doerr
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
