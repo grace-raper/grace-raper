@@ -9,7 +9,6 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do About It](https://www.goodreads.com/review/show/7090762564?utm_medium=api&utm_source=rss) by Richard V. Reeves
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 - [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
