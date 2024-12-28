@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
-- [Norman Bel Geddes Designs America](https://www.goodreads.com/review/show/5412346892?utm_medium=api&utm_source=rss) by Regina Lee Blaszczyk
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
