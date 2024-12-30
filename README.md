@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [The Dutch House](https://www.goodreads.com/review/show/7138482443?utm_medium=api&utm_source=rss) by Ann Patchett
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
