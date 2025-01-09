@@ -9,7 +9,8 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [Girl, Woman, Other](https://www.goodreads.com/review/show/7164224897?utm_medium=api&utm_source=rss) by Bernardine Evaristo
+- [Because of Winn-Dixie](https://www.goodreads.com/review/show/7193324804?utm_medium=api&utm_source=rss) by Kate DiCamillo
+- [Tom Lake](https://www.goodreads.com/review/show/7193323136?utm_medium=api&utm_source=rss) by Ann Patchett
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
