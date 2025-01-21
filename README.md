@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Bird by Bird](https://www.goodreads.com/review/show/7238248779?utm_medium=api&utm_source=rss) by Anne Lamott
-- [Our Town](https://www.goodreads.com/review/show/7217497941?utm_medium=api&utm_source=rss) by Thornton Wilder
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
