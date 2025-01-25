@@ -10,7 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Charlotte’s Web](https://www.goodreads.com/review/show/5813625720?utm_medium=api&utm_source=rss) by E.B. White
-- [Onyx Storm (The Empyrean, #3)](https://www.goodreads.com/review/show/7250108595?utm_medium=api&utm_source=rss) by Rebecca Yarros
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
