@@ -9,7 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [Charlotte’s Web](https://www.goodreads.com/review/show/5813625720?utm_medium=api&utm_source=rss) by E.B. White
+- [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 - [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
