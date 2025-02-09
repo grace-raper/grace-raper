@@ -9,10 +9,10 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [Margo&apos;s Got Money Troubles](https://www.goodreads.com/review/show/7024992054?utm_medium=api&utm_source=rss) by Rufi Thorpe
+- [Lawn Boy](https://www.goodreads.com/review/show/7304477414?utm_medium=api&utm_source=rss) by Jonathan Evison
+- [The Feminine Mystique](https://www.goodreads.com/review/show/7304475772?utm_medium=api&utm_source=rss) by Betty Friedan
 - [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
 - [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
-- [Churchill and Orwell: The Fight for Freedom](https://www.goodreads.com/review/show/5447444898?utm_medium=api&utm_source=rss) by Thomas E. Ricks
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
