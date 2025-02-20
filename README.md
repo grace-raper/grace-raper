@@ -9,7 +9,6 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
-- [Lawn Boy](https://www.goodreads.com/review/show/7304477414?utm_medium=api&utm_source=rss) by Jonathan Evison
 - [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
 - [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 <!-- GOODREADS-LIST:END -->
