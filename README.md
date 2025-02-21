@@ -9,6 +9,9 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Real Americans](https://www.goodreads.com/review/show/7341366815?utm_medium=api&utm_source=rss) by Rachel Khong
+- [Lolita](https://www.goodreads.com/review/show/7341366402?utm_medium=api&utm_source=rss) by Vladimir Nabokov
+- [Hatchet (Brian&apos;s Saga, #1)](https://www.goodreads.com/review/show/7341364779?utm_medium=api&utm_source=rss) by Gary Paulsen
 - [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
 - [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 <!-- GOODREADS-LIST:END -->
