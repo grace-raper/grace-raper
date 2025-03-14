@@ -10,8 +10,6 @@ I'm a software engineer based in Seattle, Washington.
 
    <!-- GOODREADS-LIST:START -->
 - [Lolita](https://www.goodreads.com/review/show/7341366402?utm_medium=api&utm_source=rss) by Vladimir Nabokov
-- [Where the Red Fern Grows](https://www.goodreads.com/review/show/5813631163?utm_medium=api&utm_source=rss) by Wilson Rawls
-- [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 <!-- GOODREADS-LIST:END -->
 
 #### artists I have on repeat:
