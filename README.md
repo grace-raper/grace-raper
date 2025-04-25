@@ -9,6 +9,7 @@ I'm a software engineer based in Seattle, Washington.
 #### books I've been reading:
 
    <!-- GOODREADS-LIST:START -->
+- [Real Americans](https://www.goodreads.com/review/show/7341366815?utm_medium=api&utm_source=rss) by Rachel Khong
 - [Lolita](https://www.goodreads.com/review/show/7341366402?utm_medium=api&utm_source=rss) by Vladimir Nabokov
 <!-- GOODREADS-LIST:END -->
 
