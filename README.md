@@ -22,12 +22,6 @@ I'm a software engineer based in Seattle, Washington.
 5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
 <!-- LASTFM-TOP-ARTIST:STOP -->
 
-#### the song I've hyperfixated on this month:
-<!-- LASTFM-TOP-TRACK:START -->
-* [The Kill](https://www.last.fm/music/Maggie+Rogers/_/The+Kill) - Maggie Rogers (23 plays in the last 30 days)
-<!-- LASTFM-TOP-TRACK:END -->
-
-
 #### I'm currently working on:
 
 <table>
