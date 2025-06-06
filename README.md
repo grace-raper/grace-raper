@@ -15,12 +15,17 @@ I'm a software engineer based in Seattle, Washington.
 
 #### artists I have on repeat:
 <!-- LASTFM-TOP-ARTIST:START -->
-1. [Noah Kahan](https://www.last.fm/music/Noah+Kahan) - listened to 22 times this week
-2. [Olivia Dean](https://www.last.fm/music/Olivia+Dean) - listened to 12 times this week
-3. [Holly Humberstone](https://www.last.fm/music/Holly+Humberstone) - listened to 9 times this week
-4. [Grace Carter](https://www.last.fm/music/Grace+Carter) - listened to 7 times this week
-5. [Gracie Abrams](https://www.last.fm/music/Gracie+Abrams) - listened to 7 times this week
+1. 
+2. 
+3. 
+4. 
+5. 
 <!-- LASTFM-TOP-ARTIST:STOP -->
+
+#### the song I've hyperfixated on this month:
+<!-- LASTFM-TOP-TRACK:START -->
+* 
+<!-- LASTFM-TOP-TRACK:END -->
 
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
