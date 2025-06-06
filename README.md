@@ -2,26 +2,6 @@
 ## Welcome 👋
 I'm a software engineer based in Seattle, Washington.
 
-#### articles I've been writing: 
-- [Can ChatGPT Decode Cain’s Jawbone? Exploring the Complexities and Limitations of LLMs](https://medium.com/@graceiraper/can-chatgtp-decode-cains-jawbone-f1b479cf083e)
-- [Navigating the World of Indoor Navigation](https://medium.com/@graceiraper/navigating-the-world-of-indoor-navigation-7b71f15d72c4)
-- [What is RFID? A Introduction to Radio Frequency Identification](https://medium.com/@graceiraper/what-is-rfid-technology-615c47b8c411)
-#### books I've been reading:
-
-   <!-- GOODREADS-LIST:START -->
-- [Real Americans](https://www.goodreads.com/review/show/7341366815?utm_medium=api&utm_source=rss) by Rachel Khong
-- [Lolita](https://www.goodreads.com/review/show/7341366402?utm_medium=api&utm_source=rss) by Vladimir Nabokov
-<!-- GOODREADS-LIST:END -->
-
-#### artists I have on repeat:
-<!-- LASTFM-TOP-ARTIST:START -->
-1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 52 times this week
-2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 37 times this week
-3. [The Beaches](https://www.last.fm/music/The+Beaches) - listened to 28 times this week
-4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
-5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
-<!-- LASTFM-TOP-ARTIST:STOP -->
-
 #### I'm currently working on:
 
 <table>
@@ -65,8 +45,25 @@ I'm a software engineer based in Seattle, Washington.
   </tr>
 </table>
 
+#### articles I've been writing: 
+- [Can ChatGPT Decode Cain’s Jawbone? Exploring the Complexities and Limitations of LLMs](https://medium.com/@graceiraper/can-chatgtp-decode-cains-jawbone-f1b479cf083e)
+- [Navigating the World of Indoor Navigation](https://medium.com/@graceiraper/navigating-the-world-of-indoor-navigation-7b71f15d72c4)
+- [What is RFID? A Introduction to Radio Frequency Identification](https://medium.com/@graceiraper/what-is-rfid-technology-615c47b8c411)
+#### books I've been reading:
 
+   <!-- GOODREADS-LIST:START -->
+- [Real Americans](https://www.goodreads.com/review/show/7341366815?utm_medium=api&utm_source=rss) by Rachel Khong
+- [Lolita](https://www.goodreads.com/review/show/7341366402?utm_medium=api&utm_source=rss) by Vladimir Nabokov
+<!-- GOODREADS-LIST:END -->
 
+#### artists I have on repeat:
+<!-- LASTFM-TOP-ARTIST:START -->
+1. [BØRNS](https://www.last.fm/music/B%C3%98RNS) - listened to 52 times this week
+2. [Sabrina Carpenter](https://www.last.fm/music/Sabrina+Carpenter) - listened to 37 times this week
+3. [The Beaches](https://www.last.fm/music/The+Beaches) - listened to 28 times this week
+4. [Billie Eilish](https://www.last.fm/music/Billie+Eilish) - listened to 23 times this week
+5. [Maggie Rogers](https://www.last.fm/music/Maggie+Rogers) - listened to 23 times this week
+<!-- LASTFM-TOP-ARTIST:STOP -->
 
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
