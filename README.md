@@ -27,6 +27,53 @@ I'm a software engineer based in Seattle, Washington.
 * [The Kill](https://www.last.fm/music/Maggie+Rogers/_/The+Kill) - Maggie Rogers (23 plays in the last 30 days)
 <!-- LASTFM-TOP-TRACK:END -->
 
+
+#### I'm currently working on:
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://sortmyshoebox.com" target="_blank">
+        <strong>SortMyShoebox</strong>
+      </a>
+      <div style="font-size: 0.9em; color: #555;">
+        Organize scanned family photos in minutes, not months.
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tryremme.com" target="_blank">
+        <strong>Remme</strong>
+      </a>
+      <div style="font-size: 0.9em; color: #555;">
+        AI reminiscence therapy to redefining elder care
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://sortmyshoebox.com" target="_blank">
+        <img 
+          src="https://sortmyshoebox.com/social-preview.png" 
+          alt="SortMyShoebox preview" 
+          style="border:1px solid #ccc; border-radius:8px; padding:4px; width:90%; aspect-ratio: 16/9; object-fit: cover; background-color: #eee;" 
+          onerror="this.onerror=null;this.src='https://via.placeholder.com/1280x720?text=SortMyShoebox';" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://tryremme.com" target="_blank">
+        <img 
+          src="https://tryremme.com/social-preview.png" 
+          alt="Remme preview" 
+          style="border:1px solid #ccc; border-radius:8px; padding:4px; width:90%; aspect-ratio: 16/9; object-fit: cover; background-color: #eee;" 
+          onerror="this.onerror=null;this.src='https://via.placeholder.com/1280x720?text=Remme';" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
 <!--
 **grace-raper/grace-raper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
