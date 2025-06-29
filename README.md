@@ -56,6 +56,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on S
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
+- [The Custom of the Country](https://www.goodreads.com/review/show/7693530275?utm_medium=api&utm_source=rss) by Edith Wharton
 - [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
 - [Real Americans](https://www.goodreads.com/review/show/7341366815?utm_medium=api&utm_source=rss) by Rachel Khong
 <!-- GOODREADS-LIST:END -->
