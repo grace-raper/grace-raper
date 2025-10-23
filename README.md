@@ -56,7 +56,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
-- [Cleopatra and Frankenstein](https://www.goodreads.com/review/show/7995808408?utm_medium=api&utm_source=rss) by Coco Mellors
 - [On Love](https://www.goodreads.com/review/show/5925688481?utm_medium=api&utm_source=rss) by Alain de Botton
 - [American Dirt](https://www.goodreads.com/review/show/7693530511?utm_medium=api&utm_source=rss) by Jeanine Cummins
 - [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
