@@ -56,6 +56,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
+- [From Here to the Great Unknown](https://www.goodreads.com/review/show/6917617283?utm_medium=api&utm_source=rss) by Lisa Marie Presley
 - [Rebecca](https://www.goodreads.com/review/show/8056226327?utm_medium=api&utm_source=rss) by Daphne du Maurier
 - [American Dirt](https://www.goodreads.com/review/show/7693530511?utm_medium=api&utm_source=rss) by Jeanine Cummins
 - [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
