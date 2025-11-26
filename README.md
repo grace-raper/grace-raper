@@ -57,7 +57,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
 #### reading:
    <!-- GOODREADS-LIST:START -->
 - [Notes from Underground](https://www.goodreads.com/review/show/8062849398?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky
-- [Maggie; or, A Man and a Woman Walk Into a Bar](https://www.goodreads.com/review/show/8085404850?utm_medium=api&utm_source=rss) by Katie Yee
 - [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
 <!-- GOODREADS-LIST:END -->
 
