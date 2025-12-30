@@ -57,7 +57,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
 #### reading:
    <!-- GOODREADS-LIST:START -->
 - [All About Love: New Visions](https://www.goodreads.com/review/show/8144199280?utm_medium=api&utm_source=rss) by bell hooks
-- [Notes from Underground](https://www.goodreads.com/review/show/8062849398?utm_medium=api&utm_source=rss) by Fyodor Dostoevsky
 - [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
 <!-- GOODREADS-LIST:END -->
 
