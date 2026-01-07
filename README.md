@@ -56,8 +56,8 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
-- [All About Love: New Visions](https://www.goodreads.com/review/show/8144199280?utm_medium=api&utm_source=rss) by bell hooks
-- [Don Quixote (Penguin Clothbound Classics)](https://www.goodreads.com/review/show/6315059304?utm_medium=api&utm_source=rss) by Miguel de Cervantes Saavedra
+- [Abundance](https://www.goodreads.com/review/show/8234170122?utm_medium=api&utm_source=rss) by Ezra Klein
+- [My Brilliant Friend (Neapolitan Novels, #1)](https://www.goodreads.com/review/show/8234169737?utm_medium=api&utm_source=rss) by Elena Ferrante
 <!-- GOODREADS-LIST:END -->
 
 #### listening to:
