@@ -57,7 +57,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
 #### reading:
    <!-- GOODREADS-LIST:START -->
 - [Abundance](https://www.goodreads.com/review/show/8234170122?utm_medium=api&utm_source=rss) by Ezra Klein
-- [My Brilliant Friend (Neapolitan Novels, #1)](https://www.goodreads.com/review/show/8234169737?utm_medium=api&utm_source=rss) by Elena Ferrante
 <!-- GOODREADS-LIST:END -->
 
 #### listening to:
