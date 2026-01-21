@@ -56,9 +56,9 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
+- [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 - [The Importance of Being Earnest](https://www.goodreads.com/review/show/5929133261?utm_medium=api&utm_source=rss) by Oscar Wilde
 - [The House on Mango Street](https://www.goodreads.com/review/show/8285716493?utm_medium=api&utm_source=rss) by Sandra Cisneros
-- [Abundance](https://www.goodreads.com/review/show/8234170122?utm_medium=api&utm_source=rss) by Ezra Klein
 <!-- GOODREADS-LIST:END -->
 
 #### listening to:
