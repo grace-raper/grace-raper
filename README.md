@@ -56,6 +56,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
+- [Loved One](https://www.goodreads.com/review/show/8363186001?utm_medium=api&utm_source=rss) by Aisha Muharrar
 - [Wuthering Heights](https://www.goodreads.com/review/show/5776272894?utm_medium=api&utm_source=rss) by Emily Brontë
 - [The Importance of Being Earnest](https://www.goodreads.com/review/show/5929133261?utm_medium=api&utm_source=rss) by Oscar Wilde
 <!-- GOODREADS-LIST:END -->
