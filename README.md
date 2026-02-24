@@ -56,6 +56,7 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
+- [Everything Is Tuberculosis: The History and Persistence of Our Deadliest Infection](https://www.goodreads.com/review/show/8388090280?utm_medium=api&utm_source=rss) by John Green
 - [Loved One](https://www.goodreads.com/review/show/8363186001?utm_medium=api&utm_source=rss) by Aisha Muharrar
 <!-- GOODREADS-LIST:END -->
 
