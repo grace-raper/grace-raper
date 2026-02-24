@@ -56,7 +56,6 @@ I'm a software engineer based in Seattle, Washington. I'm currently working on R
   
 #### reading:
    <!-- GOODREADS-LIST:START -->
-- [Never Let Me Go](https://www.goodreads.com/review/show/8368541002?utm_medium=api&utm_source=rss) by Kazuo Ishiguro
 - [Loved One](https://www.goodreads.com/review/show/8363186001?utm_medium=api&utm_source=rss) by Aisha Muharrar
 <!-- GOODREADS-LIST:END -->
 
